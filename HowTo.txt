@@ -1,0 +1,5 @@
+To Change RGB color, simply rotate the potentiometer.
+Once a certain value is reached the RGB LED will change color depending on what
+colors the code permits.
+The code also controls when the changes in color happen by monitoring the current value, as controlled by the
+potentiometer.
